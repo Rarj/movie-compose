@@ -8,6 +8,7 @@ import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
+import dev.arj.noidea.data.repo.movie.MovieItem
 import dev.arj.noidea.ui.theme.NoIdeaTheme
 
 class MovieActivity : ComponentActivity() {

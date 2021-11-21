@@ -20,6 +20,7 @@ import androidx.constraintlayout.compose.ConstraintLayout
 import coil.compose.rememberImagePainter
 import dev.arj.noidea.Network.BASE_URL_IMAGE
 import dev.arj.noidea.R
+import dev.arj.noidea.data.repo.movie.MovieItem
 
 class MovieCompose {
 

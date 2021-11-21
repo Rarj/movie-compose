@@ -1,6 +1,6 @@
 package dev.arj.noidea
 
-import dev.arj.noidea.feature.movie.MovieResponse
+import dev.arj.noidea.data.repo.movie.MovieResponse
 import retrofit2.http.GET
 import retrofit2.http.Query
 

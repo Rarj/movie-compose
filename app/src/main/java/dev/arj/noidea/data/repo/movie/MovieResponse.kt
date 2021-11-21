@@ -1,4 +1,4 @@
-package dev.arj.noidea.feature.movie
+package dev.arj.noidea.data.repo.movie
 
 import com.google.gson.annotations.SerializedName
 
