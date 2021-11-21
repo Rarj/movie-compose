@@ -7,7 +7,8 @@ data class MovieResponse(
 )
 
 data class MovieItem(
-  val title: String,
-  @SerializedName("backdrop_path")
-  val backdropPath: String?
+        val id: Int,
+        val title: String,
+        @SerializedName("poster_path")
+        val posterPath: String?
 )
